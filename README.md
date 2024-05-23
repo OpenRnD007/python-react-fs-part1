@@ -3,7 +3,7 @@
 This project is a full-stack application using React for the frontend and Python with PostgreSQL for the backend. The frontend loads a static JSON file and displays the information in 5 cards.
 
 ## Live Demo (CI/CD Pipeline versel)
-[Demo]()
+[Demo](https://python-react-fs-part1.vercel.app/)
 
 ## Directory Structure
 
